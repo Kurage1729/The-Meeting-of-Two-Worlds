@@ -2,10 +2,12 @@
 
 Welcome to The Meeting of Two Worlds Wiki.
 
-An alternate history project depicting a world in which the civilizations of the Americas survived and developed alongside those of Eurasia from the Norse settlement of Vinland to the modern day.
+An alternate history project depicting a world in which the civilizations of the Americas survived into the modern era.
 
+If you are new to this wiki, I recommend beginning with the [Introduction](introduction.md) page.
 ---
-
+## Introduction
+- [Introduction](introduction.md)
 ## Timeline
 
 - 1000 - Norse settlement of Vinland
