@@ -5,6 +5,7 @@ Welcome to The Meeting of Two Worlds Wiki.
 An alternate history project depicting a world in which the civilizations of the Americas survived into the modern era.
 
 If you are new to this wiki, I recommend beginning with the [Introduction](introduction.md) page.
+
 ---
 ## Introduction
 - [Introduction](introduction.md)
@@ -48,9 +49,3 @@ If you are new to this wiki, I recommend beginning with the [Introduction](intro
 - Political Map (1900)
 - Political Map (2026)
 
-
-## About this Project
-
-The Meeting of Two Worlds explores a plausible alternate history in which the civilizations of the Americas survived, modernized, and became major actors in world history.
-
-The project emphasizes historical plausibility while imagining how indigenous American civilizations might have developed politically, culturally, and technologically into the modern era.
