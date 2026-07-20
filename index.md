@@ -8,7 +8,7 @@ If you are new to this wiki, I recommend beginning with the [Introduction](intro
 
 ---
 ## Introduction
-- [Introduction](introduction.md)
+  - [Introduction](introduction)
 
 ## Timeline
 
