@@ -11,6 +11,7 @@ If you are new to this wiki, I recommend beginning with the [Introduction](intro
 - [Introduction](introduction.md)
 ## Timeline
 
+- [Overview](timeline_overview.md)
 - 1000 - Norse settlement of Vinland
 - 1492 - Columbus reaches the Americas
 - 1821 - Independence of Mexica
