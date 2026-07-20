@@ -22,4 +22,6 @@ Instead, this project asks a different question:
 
 What if the peoples, nations, cultures, and civilizations of the Americas survived into the modern age to a far greater extent than they did in our own history?
 
+Imagine a world where the Nahuatl language remains the lingua franca of Mexico, where the Mayan script fills the pages of modern books and newspapers, and where over half of the population of the United States is Indigenous, living alongside their own kingdoms within its borders.
+
 The Meeting of Two Worlds is an attempt to imagine that world—a plausible alternate history in which American and Eurasian civilizations met, influenced one another, and together shaped the course of modern history.
