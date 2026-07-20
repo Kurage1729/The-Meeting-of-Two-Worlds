@@ -18,7 +18,7 @@ An alternate history project depicting a world in which the civilizations of the
 
 ## Nations
 
-- [Mexica Republic] (mexica.md)
+- [Mexica Republic](mexica.md)
 - Kingdom of Maya
 - Inca Federation
 - United States
