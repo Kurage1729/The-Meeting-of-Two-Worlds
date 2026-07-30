@@ -6,6 +6,6 @@ He ascended to the throne at the age of 30 following the sudden death of his pre
 
 However, after Savi proclaimed himself *Tlatoani*, Mexica-centric ideology became increasingly prominent. As a result, K’an Chitam gradually distanced himself from the Mexica government.
 
-In 1910, the king survived an assassination attempt by a young Maya Pan-Americanist in what became known as the **4 Kimi Incident**, further worsening relations between Maya and Mexica. During the First World War, he declared war on Mexica in 1917.
+In 1910, the king survived an assassination attempt by a young Maya Pan-Americanist in what became known as the [**4 Kimi Incident**](../event/4kimi_incident.md), further worsening relations between Maya and Mexica. During the First World War, he declared war on Mexica in 1917.
 
-Following the war, his anachronistic absolute monarchy came under increasing criticism. In 1922, after being compelled to accept a series of liberal reforms during the **6 B'en Revolution**, K’an Chitam abdicated in favor of his son.
+Following the war, his anachronistic absolute monarchy came under increasing criticism. In 1922, after being compelled to accept a series of liberal reforms during the [**6 B'en Revolution**](../event/6ben_revolution.md), K’an Chitam abdicated in favor of his son.
