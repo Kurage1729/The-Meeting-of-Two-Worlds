@@ -17,3 +17,6 @@
 **Religion:** Traditional Maya religion (50%), Catholicism (30%), others
 
 Over 90% of its population belongs to Mayan ethnic groups. Unlike in real history, the Maya script survived continuously into the modern era and remains the country's official writing system. Maya society takes great pride in its ancient literary and scientific traditions, and it is not uncommon to hear Mexica dismissed as "newcomers" compared to the millennia-old Maya civilization.
+
+## History
+History of Maya
