@@ -20,6 +20,6 @@ In 1848, the Kaloomte' suppressed a republican uprising, marking the beginning o
 
 In 1865, the Kaloomte'—inspired by political developments in Mexica—greatly reduced the powers of the nobility. While the reforms were popular among commoners, they also established the monarchy as the dominant political institution, no longer dependent upon aristocratic support.
 
-K'an Chitam ascended to the throne in 1888. Initially sympathetic to Savi's Pan-Americanist movement in Mexica, he later distanced himself from Mexica as it embraced an increasingly Mexica-centric nationalism, instead pursuing closer ties with the United States.
+[K'an Chitam](../people/kan_chitam.md) ascended to the throne in 1888. Initially sympathetic to Savi's Pan-Americanist movement in Mexica, he later distanced himself from Mexica as it embraced an increasingly Mexica-centric nationalism, instead pursuing closer ties with the United States.
 
-In 1917, K'an Chitam entered the First World War on the side of the Entente. Following Mexica's defeat, Pan-Americanism rapidly declined in influence. Growing criticism of K'an Chitam's conservative rule culminated in the promulgation of a new constitution on 1922, which significantly limited the powers of the monarchy. These events are collectively known as the 6 B'en Revolution.
+In 1917, K'an Chitam entered the First World War on the side of the Entente. Following Mexica's defeat, Pan-Americanism rapidly declined in influence. Growing criticism of K'an Chitam's conservative rule culminated in the promulgation of a new constitution on 1922, which significantly limited the powers of the monarchy. These events are collectively known as the [6 B'en Revolution](../event/6ben_revolution.md).
