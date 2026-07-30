@@ -24,7 +24,7 @@ If you are new to this wiki, I recommend beginning with the [Introduction](intro
 ## Nations
 
 - [Mexica Republic](mexica.md)
-- Kingdom of Maya
+- [Kingdom of Maya](nations/maya.md)
 - Inca Federation
 - United States
 - Cherokee Republic
