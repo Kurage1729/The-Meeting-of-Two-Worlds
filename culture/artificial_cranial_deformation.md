@@ -10,6 +10,6 @@ During the 18th century, Spanish colonial authorities attempted to ban the pract
 
 Following the Republican Revolution of 1848, the custom gradually declined in Mexica, particularly in urban areas. In Maya, however, it remained an important status symbol among royalty and the nobility well into the 20th century.
 
-The practice was widely criticized by Maya intellectuals and European observers alike. During the 6 B'en Revolution of 1922, King K’an Chitam was compelled to formally abolish cranial deformation among members of the royal family and the aristocracy.
+The practice was widely criticized by Maya intellectuals and European observers alike. During the [6 B'en Revolution](../event/6ben_revolution.md) of 1922, King K’an Chitam was compelled to formally abolish cranial deformation among members of the royal family and the aristocracy.
 
 Although the custom has disappeared from mainstream society, some ethnic communities in remote regions continue to practice it today.
