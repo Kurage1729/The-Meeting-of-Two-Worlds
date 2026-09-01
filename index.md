@@ -4,6 +4,12 @@
 
 Because epidemics and technological exchange began much earlier, the Indigenous societies of the Americas followed a very different historical path. Powerful states survived into the colonial period, European conquests took far longer, and many Indigenous languages, writing systems, religions, and political institutions remain central to the modern Americas.
 
+If you are new to this wiki, I recommend beginning with the [Introduction](introduction.md) page.
+
+---
+## Introduction
+  - [Introduction](introduction)
+
 ## Explore the setting
 
 - [World overview](overview.md)
