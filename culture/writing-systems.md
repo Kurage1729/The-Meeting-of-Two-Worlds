@@ -22,7 +22,7 @@ It also developed conventions unlike the Latin alphabet. For example, syllable-f
 
 ## Mississippi scripts
 
-The Mississippi scripts developed from runes during the fourteenth century. They diversified greatly during the political height of the Mississippi kingdoms around 1700.
+The Mississippi scripts developed from runes during the fourteenth century. They diversified greatly during the political height of the Mississippi kingdoms around 1600.
 
 Most remain alphabetic in principle but arrange consonants and vowels vertically inside compact syllable blocks, producing a visual appearance comparable to Maya glyph blocks. Regional versions differ considerably. Some enlarge verbal roots to distinguish them from affixes, while others include a limited number of logograms.
 
