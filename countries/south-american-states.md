@@ -79,7 +79,7 @@ Paraguay was formed through the union of Spanish Paraguay with the Guaraní-inha
 
 | Category | Information |
 |---|---|
-| Capital | TBD |
+| Capital | Georgetown |
 | Population | Approximately 1 million; provisional |
 | Indigenous population | Approximately 30% |
 | Language | English |
