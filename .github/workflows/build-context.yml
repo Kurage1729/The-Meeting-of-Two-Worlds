@@ -1,0 +1,54 @@
+name: Build GPT Context
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "**.md"
+      - "scripts/build-context.py"
+      - ".github/workflows/build-context.yml"
+      - "!context/**"
+      - "!_drafts/**"
+      - "!AI-WORKFLOW-JA.md"
+      - "!STRUCTURE.md"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-gpt-context-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-context:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+
+      - name: Generate context file
+        run: python scripts/build-context.py
+
+      - name: Commit generated context
+        shell: bash
+        run: |
+          git add context/all-context.md
+
+          if git diff --cached --quiet; then
+            echo "Context is already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update GPT context"
+          git push
+
