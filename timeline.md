@@ -82,6 +82,17 @@ This timeline summarizes major events across the TMTW setting. Links lead to reg
 - **1890s** — American Indigenous kingdoms are reorganized as Crowned States; Savi becomes president for life.
 - **1895** — Savi proclaims the Third Mexica Empire.
 - **1899–1902** — The Andean Federation retains Acre after defeating an Amazonian settler revolt.
+<!--
+* **1831** — Maya forces expel the Mexica army. The Maya region becomes divided between the Mérida Maya Kingdom and the Petén Maya Kingdom.
+* **1831–1838** — José (K’ahk’), king of Mérida, pursues modernization with the support of the Pech family. His abolition of the Maya script and other reforms provoke growing opposition in northern Yucatán.
+* **1838** — Petén Maya king K’inich Bahlam enters Tiho with the support of the K’anul family and reunifies the Maya region. He begins a program of cultural restoration, including the revival of the Maya script and human sacrifice in northern Yucatán.
+* **1844** — K’inich Bahlam is assassinated. Jasaw Chan Yopaat succeeds him.
+* **1847** — Jasaw Chan Yopaat concludes the Mérida Accord with the Pech family and abolishes human sacrifice. A rebellion against the Maya monarchy follows but is suppressed.
+* **1855** — Jasaw Chan Yopaat suppresses a republican uprising influenced by the Mexica Republican Revolution. Royal authority subsequently expands while aristocratic privileges are restricted.
+* **1871** — Muwaan Jol becomes *Kaloomte’* and begins an accelerated program of modernization with the support of Pech aristocratic bureaucrats.
+* **1887–1888** — The British–Maya War is fought over Belize. Muwaan Jol is killed during the conflict.
+* **1888** — K’an Chitam succeeds his father and negotiates an end to the war under American mediation. Maya sovereignty over Belize is recognized, while British companies retain extensive economic privileges.
+-->
 
 ## Twentieth century
 
