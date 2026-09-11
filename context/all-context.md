@@ -1042,6 +1042,7 @@ American–Vinlandic tension revived during the Alaska controversy of the 1880s.
 
 - [Oregon War](oregon-war.md)
 - [American–Mexica War](american-mexica-war.md)
+- [British-Maya War](british-maya-war.md)
 
 ## Revolutions and political crises
 
