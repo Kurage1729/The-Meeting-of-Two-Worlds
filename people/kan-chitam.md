@@ -8,7 +8,15 @@
 | Reign | 1888–1922 |
 | Title | Kaloomte’ of the Maya |
 
-K’an Chitam became ruler of the Maya at the age of thirty after the sudden death of his predecessor.
+## Accession and the British–Maya War
+
+K’an Chitam came to the throne in 1888 following the death of his father, King Muwaan Jol, during the British–Maya War. Despite his youth, he immediately took responsibility for bringing the conflict to a favorable conclusion.
+
+K’an Chitam pursued negotiations with Britain under American mediation. The resulting settlement transferred sovereignty over Belize to the Kingdom of the Maya while allowing British companies to retain extensive economic privileges. British firms received long-term leases, guaranteed rights to timber extraction, and continued use of major ports.
+
+The settlement gave K’an Chitam an early and highly significant political victory. The recovery of Belize strengthened the legitimacy of the monarchy and established the young king as a successful defender of Maya territorial sovereignty.
+
+At the same time, the continued presence of British commercial interests in Belize ensured that the territory remained economically connected to the British Empire. This compromise became an important feature of Maya foreign and economic policy during K’an Chitam's reign.
 
 ## Pan-Americanism and cultural policy
 
