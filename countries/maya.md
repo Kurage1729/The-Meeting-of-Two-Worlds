@@ -40,13 +40,13 @@ In 1838, Petén Maya king [K’inich Bahlam](../people/kinich-bahlam.md) entered
 
 ## Monarchy and centralization
 
-K’inich Bahlam was assassinated in 1844 and succeeded by Jasaw Chan Yopaat. In 1847, Jasaw Chan Yopaat concluded the Mérida Accord with the Pech family, ending their political conflict with the monarchy and formally abolishing human sacrifice. The settlement was followed almost immediately by a rebellion against the Maya king in Tiho, which was suppressed by the royal government.
+K’inich Bahlam was assassinated in 1844 and succeeded by [Jasaw Chan Yopaat](..//people/jasaw-chan-yopaat.md). In 1847, Jasaw Chan Yopaat concluded the Mérida Accord with the Pech family, ending their political conflict with the monarchy and formally abolishing human sacrifice. The settlement was followed almost immediately by a rebellion of the former Mérida king, which was suppressed by the royal government.
 
-In 1855, republican rebels influenced by the Mexica Republican Revolution rose against the monarchy. Jasaw Chan Yopaat suppressed the uprising and subsequently strengthened royal authority. Over the following years, the political privileges of the aristocracy were progressively restricted, laying the foundations for a centralized and increasingly autocratic monarchy.
+In 1855, republican rebels influenced by the [Mexica Republican Revolution](..//history/mexica-republican-revolution.md) rose against the monarchy. Jasaw Chan Yopaat suppressed the uprising and subsequently strengthened royal authority. Over the following years, the political privileges of the aristocracy were progressively restricted, laying the foundations for a centralized and increasingly autocratic monarchy.
 
-Jasaw Chan Yopaat was succeeded by Muwaan Jol in 1871. Working with bureaucrats from the Pech aristocracy, Muwaan Jol accelerated modernization that had lagged during the previous reign. His government promoted administrative reform, economic development, and the expansion of the modern state.
+Jasaw Chan Yopaat was succeeded by [Muwaan Jol](..//people/muwaan-jol.md) in 1871. Working with bureaucrats from the Pech aristocracy, Muwaan Jol accelerated modernization that had lagged during the previous reign. His government promoted administrative reform, economic development, and the expansion of the modern state.
 
-In 1887, Muwaan Jol launched the British–Maya War in an attempt to recover Belize from Britain. He was killed during the war, and his son K’an Chitam succeeded him in 1888. Under American mediation, K’an Chitam negotiated an end to the war. Maya sovereignty over Belize was recognized, while British companies were granted long-term leases and guaranteed rights to timber extraction and the use of ports.
+In 1887, Muwaan Jol launched the [British–Maya War](..//history/british-maya-war.md) in an attempt to recover Belize from Britain. He was killed during the war, and his son [K’an Chitam](..//people/kan-chitam.md) succeeded him in 1888. Under American mediation, K’an Chitam negotiated an end to the war. Maya sovereignty over Belize was recognized, while British companies were granted long-term leases and guaranteed rights to timber extraction and the use of ports.
 
 K’an Chitam initially supported Savi's Pan-Americanism and promoted Classical Maya revival and linguistic purification. As Savi's movement became increasingly Mexica-centered, K’an Chitam moved toward the United States. The Maya entered the First World War against Mexica in 1917.
 
