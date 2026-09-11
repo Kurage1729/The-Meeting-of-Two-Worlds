@@ -11,6 +11,9 @@
 
 ## Maya
 
+- [K’inich Bahlam](kinich-bahlam.md)
+- [Jasaw Chan Yopaat](jasaw-chan-yopaat.md)
+- [Muwaan Jol](muwann-jol.md)
 - [K’an Chitam](kan-chitam.md)
 
 ## Andes
