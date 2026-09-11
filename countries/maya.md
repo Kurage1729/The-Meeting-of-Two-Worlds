@@ -32,11 +32,11 @@ The court withdrew to Nojpetén, after which the surviving state was known as th
 
 ## Independence and restoration
 
-In 1822, colonial officials, landowners, and military leaders in Guatemala City and Tiho accepted annexation by the Mexica Empire. Maya nationalists rebelled, and in 1831 Maya forces expelled the Mexica army. Following independence, the Maya region remained divided between the Mérida Maya Kingdom, centered on northern Yucatán, and the Petén Maya Kingdom, which controlled Petén and the Guatemalan highlands.
+In 1822, colonial officials, landowners, and military leaders in Guatemala City and Merida accepted annexation by the Mexica Empire. Maya nationalists rebelled, and in 1831 Maya forces expelled the Mexica army. Following independence, the Maya region remained divided between the Mérida Maya Kingdom, centered on northern Yucatán, and the Petén Maya Kingdom, which controlled Petén and the Guatemalan highlands.
 
 José, the Mérida Maya king who took the Maya name *K’ahk’*, pursued a program of modernization with the support of the powerful Pech family. His reforms provoked growing opposition in the rural areas of northern Yucatán, while his abolition of the Maya script alienated the scribes of Tiho (Mérida) as well. His rule was eventually challenged by the Petén Maya court.
 
-In 1838, Petén Maya king K’inich Bahlam entered Tiho with the support of the aristocratic K’anul family and unified the Maya region under his rule. The Pech family lost much of its political influence, and K’inich Bahlam initiated a program of cultural and political restoration. He revived the Maya script and restored human sacrifice in northern Yucatán, following traditions preserved in Petén.
+In 1838, Petén Maya king [K’inich Bahlam](../people/kinich-bahlam.md) entered Tiho with the support of the aristocratic K’anul family and unified the Maya region under his rule. The Pech family lost much of its political influence, and K’inich Bahlam initiated a program of cultural and political restoration. He revived the Maya script and restored human sacrifice in northern Yucatán, following traditions preserved in Petén.
 
 ## Monarchy and centralization
 
