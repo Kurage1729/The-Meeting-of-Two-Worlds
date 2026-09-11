@@ -32,15 +32,23 @@ The court withdrew to Nojpetén, after which the surviving state was known as th
 
 ## Independence and restoration
 
-In 1822, colonial officials, landowners, and military leaders in Guatemala City and Tiho accepted annexation by the Mexica Empire. Maya nationalists rebelled. In 1831, Maya forces expelled the Mexica army and invited the Petén Maya king K’inich Bahlam to rule a restored kingdom from Tiho.
+In 1822, colonial officials, landowners, and military leaders in Guatemala City and Tiho accepted annexation by the Mexica Empire. Maya nationalists rebelled, and in 1831 Maya forces expelled the Mexica army. Following independence, the Maya region remained divided between the Mérida Maya Kingdom, centered on northern Yucatán, and the Petén Maya Kingdom, which controlled Petén and the Guatemalan highlands.
 
-The new kingdom demanded British withdrawal from Belize, beginning a territorial dispute that lasted into the twentieth century.
+José, the Mérida Maya king who took the Maya name *K’ahk’*, pursued a program of modernization with the support of the powerful Pech family. His reforms provoked growing opposition in the rural areas of northern Yucatán, while his abolition of the Maya script alienated the scribes of Tiho (Mérida) as well. His rule was eventually challenged by the Petén Maya court.
 
-## Monarchy and reform
+In 1838, Petén Maya king K’inich Bahlam entered Tiho with the support of the aristocratic K’anul family and unified the Maya region under his rule. The Pech family lost much of its political influence, and K’inich Bahlam initiated a program of cultural and political restoration. He revived the Maya script and restored human sacrifice in northern Yucatán, following traditions preserved in Petén.
 
-The aristocracy initially dominated the restored kingdom. A ruler provisionally identified as King A destroyed the powerful House Alpha in 1847, suppressed a republican uprising in 1855, and greatly reduced aristocratic privileges in 1865. His successor, provisionally identified as King B, promoted modernization and coffee exports after 1871.
+## Monarchy and centralization
 
-K’an Chitam came to the throne in 1888. He initially supported Savi's Pan-Americanism and promoted Classical Maya revival and linguistic purification. As Savi's movement became increasingly Mexica-centered, K’an Chitam moved toward the United States. The Maya entered the First World War against Mexica in 1917.
+K’inich Bahlam was assassinated in 1844 and succeeded by Jasaw Chan Yopaat. In 1847, Jasaw Chan Yopaat concluded the Mérida Accord with the Pech family, ending their political conflict with the monarchy and formally abolishing human sacrifice. The settlement was followed almost immediately by a rebellion against the Maya king in Tiho, which was suppressed by the royal government.
+
+In 1855, republican rebels influenced by the Mexica Republican Revolution rose against the monarchy. Jasaw Chan Yopaat suppressed the uprising and subsequently strengthened royal authority. Over the following years, the political privileges of the aristocracy were progressively restricted, laying the foundations for a centralized and increasingly autocratic monarchy.
+
+Jasaw Chan Yopaat was succeeded by Muwaan Jol in 1871. Working with bureaucrats from the Pech aristocracy, Muwaan Jol accelerated modernization that had lagged during the previous reign. His government promoted administrative reform, economic development, and the expansion of the modern state.
+
+In 1887, Muwaan Jol launched the British–Maya War in an attempt to recover Belize from Britain. He was killed during the war, and his son K’an Chitam succeeded him in 1888. Under American mediation, K’an Chitam negotiated an end to the war. Maya sovereignty over Belize was recognized, while British companies were granted long-term leases and guaranteed rights to timber extraction and the use of ports.
+
+K’an Chitam initially supported Savi's Pan-Americanism and promoted Classical Maya revival and linguistic purification. As Savi's movement became increasingly Mexica-centered, K’an Chitam moved toward the United States. The Maya entered the First World War against Mexica in 1917.
 
 The [6 B’en Revolution](../history/6-ben-revolution.md) of 1922 restored parliament, restricted royal power, ended Classical Maya as the official literary language, and abolished aristocratic cranial modification. A military ruler provisionally identified as C established an authoritarian regime in 1931. Mass protests removed him in 1944 and reduced the monarchy to a symbolic institution.
 
