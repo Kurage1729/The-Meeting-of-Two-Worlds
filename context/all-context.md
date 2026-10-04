@@ -994,9 +994,9 @@ The [American–Mexica War](../history/american-mexica-war.md) transferred the r
 
 In 1916, the Pueblo government entered the First World War after Mexica promised postwar independence. American victory returned the region to federal control.
 
-## Northwest Coast Confederated Kingdom
+## United Kingdoms of the Northwest Coast
 
-For the confederation's full history, see [Northwest Coast Confederated Kingdom](northwest-coast.md).
+For the confederation's full history, see [United Kingdoms of the Northwest Coast](northwest-coast.md).
 
 ## Related articles
 
