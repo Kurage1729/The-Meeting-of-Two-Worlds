@@ -1738,6 +1738,8 @@ The [Andean Federation](../countries/andean-federation.md) established the Sacre
 - [Cecuiztli Tocal](cecuiztli-tocal.md)
 - [Porforio Savi](porforio-savi.md)
 
+- [Mexica Noble Army](mexica-noble-army.md)
+
 ## Maya
 
 - [K’inich Bahlam](kinich-bahlam.md)
