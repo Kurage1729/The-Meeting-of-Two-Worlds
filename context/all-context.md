@@ -838,7 +838,7 @@ Vinland developed from permanent Norse settlements founded in Newfoundland aroun
 
 ## Territory
 
-Compared with real-world Canada, Vinland includes Maine, Michigan, Wisconsin, northern Minnesota, North Dakota, northern Montana, northern Washington, and the Alaska Panhandle. It also includes the autonomous [Northwest Coast Confederated Kingdom](../polities/northwest-coast.md).
+Compared with real-world Canada, Vinland includes Maine, Michigan, Wisconsin, northern Minnesota, North Dakota, northern Montana, northern Washington, and the Alaska Panhandle. It also includes the autonomous [United Kingdoms of the Northwest Coast](../polities/northwest-coast.md).
 
 ## Norse settlement and expansion
 
