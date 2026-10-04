@@ -5,7 +5,7 @@
 Many modern states in TMTW preserve institutions descended from precolonial and early modern Indigenous states.
 
 - [North American kingdoms and autonomous polities](north-american-polities.md)
-- [Northwest Coast Confederated Kingdom](northwest-coast.md)
+- [United Kingdoms of the Northwest Coast](northwest-coast.md)
 
 ## Related articles
 
