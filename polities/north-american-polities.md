@@ -56,6 +56,8 @@ Coosa was a Creek state that reached its greatest power in the early seventeenth
 
 In the late eighteenth century, the Cherokee, Chickasaw, and Choctaw kingdoms gained independence from Coosa with American support. The United States incorporated Coosa in 1816. Its Creek heartland later became the Coosa Crowned State.
 
+For information on Coosa culture, see the [Coosa Culture](../culture/coosa-culture.md) page.
+
 ## Cherokee Kingdom
 
 The Cherokee Kingdom became independent from Coosa with American support in the late eighteenth century and soon entered American protection. It adopted a Latin-alphabet orthography and a constitution because Cherokee had not been a major administrative language of the Mississippi states and therefore lacked an established Mississippi-script tradition.
