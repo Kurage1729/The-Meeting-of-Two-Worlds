@@ -908,7 +908,7 @@ Known capitals include:
 | Kaskaskia | Crowned State | Grand Kaskaskia (La Vantum), opposite Starved Rock |
 | Dinay (Diné) | Crowned State | Naatʼáaniinééz (Shiprock) |
 | Pequila (Pueblo) | Crowned State | Kuaua |
-| Northwest Coast Confederated Kingdom | Autonomous kingdom within Vinland | Ḵ’emḵ’emel̓áy̓ |
+| United Kingdoms of the Northwest Coast | Autonomous kingdom within Vinland | Ḵ’emḵ’emel̓áy̓ |
 
 ## Haudenosaunee Confederacy
 
