@@ -14,14 +14,14 @@ The resulting political landscape differed sharply from that of real history. Ce
 
 France gained influence in the Great Lakes and Mississippi regions, while Britain later absorbed many French possessions. The United States expanded westward much more slowly because it faced established Indigenous kingdoms rather than sparsely defended territory. Many of these states were eventually incorporated into the United States, often after prolonged wars or negotiated arrangements.
 
-Their legacies survive in the modern federal system. The United States contains a Confederated State, Indigenous Crowned States, and numerous national counties. Vinland also contains autonomous governments, including the northern Haudenosaunee government and the Northwest Coast Confederated Kingdom.
+Their legacies survive in the modern federal system. The United States contains a Confederated State, Indigenous Crowned States, and numerous national counties. Vinland also contains autonomous governments, including the northern Haudenosaunee government and United Kingdoms of the Northwest Coast.
 
 ## Major countries and polities
 
 - [United States of America](../countries/united-states.md)
 - [Kingdom of Vinland](../countries/vinland.md)
 - [North American kingdoms and autonomous polities](../polities/north-american-polities.md)
-- [Northwest Coast Confederated Kingdom](../polities/northwest-coast.md)
+- [United Kingdoms of the Northwest Coast](../polities/northwest-coast.md)
 
 ## Related articles
 
