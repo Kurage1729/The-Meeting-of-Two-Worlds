@@ -856,7 +856,7 @@ France established coastal forts in the sixteenth century and later forced Vinla
 
 An attempt to gain independence during the War of 1812 failed. A new mass independence movement began in 1837, and the Kingdom of Vinland became independent in 1838.
 
-During the nineteenth century, Vinland expanded westward north of the 46th parallel. It entered the [Oregon War](../history/oregon-war.md) in 1861 in support of the Northwest Coast Confederated Kingdom, but defeat forced it to surrender Oregon territories to the United States.
+During the nineteenth century, Vinland expanded westward north of the 46th parallel. It entered the [Oregon War](../history/oregon-war.md) in 1861 in support of the United Kingdoms of the Northwest Coast, but defeat forced it to surrender Oregon territories to the United States.
 
 Relations deteriorated again during the Alaska controversy of the 1880s. Vinland strongly urged the purchase of Russian Alaska for reasons of national defense, but Russia sold the territory to the United States, partly because it distrusted British-aligned Vinland. American–Vinlandic relations later improved.
 
@@ -864,7 +864,7 @@ Relations deteriorated again during the Alaska controversy of the 1880s. Vinland
 
 - [Vinlandic language](../culture/languages.md#vinlandic)
 - [Writing systems of the Americas](../culture/writing-systems.md#north-american-runes)
-- [Northwest Coast Confederated Kingdom](../polities/northwest-coast.md)
+- [United Kingdoms of the Northwest Coast](../polities/northwest-coast.md)
 - [North America](../regions/north-america.md)
 
 ---
