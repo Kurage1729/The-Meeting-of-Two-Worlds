@@ -9,6 +9,7 @@
 
 ## Religion and social customs
 
+- [Coosa Culture](coosa-culture.md)
 - [Inti religion](inti-religion.md)
 - [Mesoamerican customs](mesoamerican-customs.md)
 
